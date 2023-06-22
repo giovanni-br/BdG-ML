@@ -18,7 +18,7 @@ $$\Delta = \lambda \int_{-Ec}^{Ec} \Delta \frac{tanh(\frac {\sqrt{\xi^2 + |\Delt
 
 In discrete space, a Hamiltonian representing a one-dimensional chain with nearest-neighbor hopping and periodic boundary conditions was chosen:
 
-$$ H = \sum_{<i,j>} t_{ij} c^{\dag}{i} c{j} + \sum_{<i, j>} \Delta_{ij}c^{\dag}{i} c^{\dag}{j} + \sum_{<i, j>} \Delta_{ij} c_{i} c_{j}$$
+$$ H = \sum_{<i,j>} t_{ij} c^{\dagger}{i} c{j} + \sum_{<i, j>} \Delta_{ij}c^{\dagger}{i} c^{\dagger}{j} + \sum_{<i, j>} \Delta_{ij} c_{i} c_{j}$$
 
 # Idea 
 
