@@ -38,6 +38,6 @@ To accomplish this, Random Forests were considered due to their low computationa
 * **New physical behaviors** were possibly found for conditions where $V \approx t$. Possible unusual phase transitions of the order parameter, in bulk, and on the edge.
 
 <p align="center">
-  <img src="https://github.com/giovanni-br/BdG-ML/blob/main/gap_gif_nonperiodic_spin.gif" alt="animated" />
+  <img src="https://github.com/giovanni-br/BdG-ML/blob/main/scatter_gap.gif" alt="animated" />
 </p>
 
